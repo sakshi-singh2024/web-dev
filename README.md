@@ -1,2 +1,2 @@
 # web-dev
-this is a web development my first repsotiry
+hiii this is my first repo so i am just try to it
